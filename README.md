@@ -6,7 +6,7 @@ at any moment(from 2020 to ...we don't exactly know if we don't have the Spacex'
 
 It's made by me and rafredarrow
 
-# Currently Includes
+## Currently Includes
 
 In the mod there's already:
 
@@ -16,7 +16,7 @@ In the mod there's already:
 
 -The Staractory
 
-# Future Plan
+## Future Plan
 
 -GSE without a shell
 
@@ -26,12 +26,12 @@ In the mod there's already:
 
 -Some details of the Orbital Tank Farm
 
-# Dependies:
+## Dependies:
 Kerbal Konstruct
 
 Texture Unlimited
 
-# Recommended
+## Recommended
 Starship Expansion Project
 
 Starship Launch Expansion
