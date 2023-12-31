@@ -16,17 +16,17 @@ In the mod there's already:
 
 -The Staractory
 
-## Future Plan
-
 -GSE without a shell
+
+-Build Site Concrete
+
+## Future Plan
 
 -Rings
 
 -An interior for Starfactory
 
 -Some details of the Orbital Tank Farm
-
--Build Site Concrete
 
 -Subcoolers
 
